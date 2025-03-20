@@ -30,8 +30,7 @@ I am a **Master’s student at the University of Guelph** with a focus on **how 
 ## 🚀 Works in Progress
 
 ### **1. Rethinking “Ground Truth” in AI Emotion Detection: Insights from a Human-Centred Study of Emotion Labelling**  
-📍 *Graphics Interface (GI) 2025*  
-📌 [Link to Paper (if available)]()  
+📌 [Coming Soon!]()  
 📜 **Summary:** This study explores the limitations of AI emotion detection models trained on predefined emotion labels. Using a mixed-methods user study, we analyze how human interpretations of emotion in text-based communication diverge from standard AI-labeled datasets. The findings highlight the need for **pluralistic AI models** that accommodate individual differences in emotional expression.  
 
 ### **2. Text-Based Emotion Detection: A Literature Review**  
