@@ -11,14 +11,19 @@ I am a **Master’s student at the University of Guelph** with a focus on **how 
 
 ### **1. Systematic Literature Review of Vision-Based Approaches to Outdoor Livestock Monitoring with Lessons from Wildlife Studies**  
 📍 *Technical Report CSL-2024-01, School of Computer Science, University of Guelph*  
-📌 [Link to Paper](https://github.com/zaynjameelabbas/Research/blob/main/publications/Systematic_Literature_Review_of_Vision-Based_Appro.pdf)  
+📌 [Read the full paper](https://github.com/zaynjameelabbas/Research/blob/main/publications/Systematic_Literature_Review_of_Vision-Based_Appro.pdf)  
 📜 **Summary:** This systematic literature review explores the use of **computer vision and deep learning for precision livestock farming (PLF)**. It categorizes **vision-based methods for livestock and wildlife monitoring**, discusses the challenges of applying AI in outdoor settings, and highlights key advancements in **animal health and welfare monitoring**.  
 
 
 ### **2. Emotive Translation Bubbles: Visualizing Emotional Nuances in Text Communication**  
 📍 *Graphics Interface (GI) 2023*  
-📌 [Link to Paper (if available)]()  
+📌 [Read the Abstract](https://github.com/zaynjameelabbas/Research/blob/main/publications/emotive%20translation%20bubbles_GI2023%20abstract%20(1).pdf)  
 📜 **Summary:** This paper presents a novel visualization technique—Emotive Translation Bubbles—designed to **help users better understand emotional nuances in text-based digital communication**. The study explores how different **emotion translation models** can enhance interpersonal understanding in online conversations.  
+
+### **3. Human-Centred Training and Validation of Text-Based Emotion Detection Machine Learning Models**  
+📍 *Graphics Interface (GI) 2024*  
+📌 [Read the Abstract](https://github.com/zaynjameelabbas/Research/blob/main/publications/zayn_gi2024_abstract_poster%20(1).pdf)  
+📜 **Summary:** This paper explores a **human-centred approach to training and validating AI-based emotion detection models**. Using **RoBERTa-based NLP models**, it compares AI-generated emotion labels with human evaluations in text-based social media communication. The study integrates **psychological emotion theories** and aims to bridge the gap between **AI emotion detection and human interpretation**.  
 
 ---
 
@@ -28,6 +33,17 @@ I am a **Master’s student at the University of Guelph** with a focus on **how 
 📍 *Graphics Interface (GI) 2025*  
 📌 [Link to Paper (if available)]()  
 📜 **Summary:** This study explores the limitations of AI emotion detection models trained on predefined emotion labels. Using a mixed-methods user study, we analyze how human interpretations of emotion in text-based communication diverge from standard AI-labeled datasets. The findings highlight the need for **pluralistic AI models** that accommodate individual differences in emotional expression.  
+
+### **2. Text-Based Emotion Detection: A Literature Review**  
+📌 **Status:** Literature Review Completion Phase  
+📌 [Read the draft](https://github.com/zaynjameelabbas/Research/blob/main/Work%20in%20Progress/CIS6890_Zayn_Lit_Review.pdf)  
+📜 **Summary:** This paper reviews **emotion detection in digital communication**, covering **emotion models, emotion datasets, machine learning-based emotion detection models, and key challenges** in the field. The study provides insights into **how AI can improve text-based emotional analysis in social media interactions**.  
+
+### **3. Bridging the Gap Between Natural Language Processing and Explainable AI in Language-Based AI Systems**  
+📌 **Status:** Research & Writing Phase  
+📌 [Read the draft](https://github.com/zaynjameelabbas/Research/blob/main/Work%20in%20Progress/Final%20Rough.pdf)  
+📜 **Summary:** This research explores the intersection of **Natural Language Processing (NLP) and Explainable AI (XAI)** to improve the interpretability and transparency of language-based AI systems. It reviews **XAI techniques for NLP models**, discusses the limitations of black-box models, and suggests strategies for **enhancing trust and accountability in AI-driven text processing**.  
+
 
 
 ---
@@ -45,12 +61,3 @@ Feel free to connect with me for research collaborations, discussions, or inquir
 📧 Email: [zayn.jameel.abbas@gmail.com]  
 🌐 LinkedIn: [https://www.linkedin.com/in/zayn-j-abbas/]  
 ---
-
-## 📌 Repository Structure
-
-📂 publications/
-├── 📜 Systematic_Literature_Review_of_Vision.pdf
-├── 📜 Other_Published_Work.pdf
-📂 works-in-progress/
-├── 📜 Multimodal_Emotion_Research.pdf
-├── 📜 AI_Chatbot_Personalization_Research.pdf
