@@ -11,7 +11,7 @@ I am a **Master’s student at the University of Guelph** with a focus on **how 
 
 ### **1. Systematic Literature Review of Vision-Based Approaches to Outdoor Livestock Monitoring with Lessons from Wildlife Studies**  
 📍 *Technical Report CSL-2024-01, School of Computer Science, University of Guelph*  
-📌 [Link to Paper (if available)]()  
+📌 [Link to Paper](https://github.com/zaynjameelabbas/Research/blob/main/publications/Systematic_Literature_Review_of_Vision-Based_Appro.pdf)  
 📜 **Summary:** This systematic literature review explores the use of **computer vision and deep learning for precision livestock farming (PLF)**. It categorizes **vision-based methods for livestock and wildlife monitoring**, discusses the challenges of applying AI in outdoor settings, and highlights key advancements in **animal health and welfare monitoring**.  
 
 
