@@ -17,7 +17,7 @@ I am a **Master’s student at the University of Guelph** with a focus on **how 
 
 ### **2. Emotive Translation Bubbles: Visualizing Emotional Nuances in Text Communication**  
 📍 *Graphics Interface (GI) 2023*  
-📌 [Read the Abstract](https://github.com/zaynjameelabbas/Research/blob/main/publications/emotive%20translation%20bubbles_GI2023%20abstract%20(1).pdf)  
+📌 [Read the Abstract](https://github.com/zaynjameelabbas/Research/tree/main/publications/Emotive%20Translation%20Bubbles)  
 📜 **Summary:** This paper presents a novel visualization technique—Emotive Translation Bubbles—designed to **help users better understand emotional nuances in text-based digital communication**. The study explores how different **emotion translation models** can enhance interpersonal understanding in online conversations.  
 
 ### **3. Human-Centred Training and Validation of Text-Based Emotion Detection Machine Learning Models**  
