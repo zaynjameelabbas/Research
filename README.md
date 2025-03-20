@@ -1,4 +1,4 @@
-# 📚 Research Portfolio – Zayn [Last Name]
+# 📚 Research Portfolio – Zayn Abbas
 
 Welcome to my research portfolio! This repository serves as a collection of my **published papers, works in progress, and ongoing research projects** in the fields of **human-computer interaction, emotion detection, social media communication, and AI-driven user research**.
 
